@@ -1,7 +1,8 @@
 # proxy2
 
-HTTP/HTTPS proxy in a single python script
+HTTP/HTTPS proxy in a single python script for Python 3.6+
 
+Forked from https://github.com/inaz2/proxy2 which not supports Python 3.x
 
 ## Features
 
